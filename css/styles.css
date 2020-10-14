@@ -1,11 +1,13 @@
 p{
   font-size: 30px;
+  line-height: 40px;
   color: rgb(231, 13, 195);
   font-family: cursive;
 }
 
 h3{
   font-size: 40px;
+  line-height: 50px;
   color: rgb(16, 169, 230);
   font-family: cursive;
 }
@@ -14,14 +16,22 @@ ul.frosting{
   list-style-position: inside;
   font-size: 25px;
   color: blueviolet;
+  line-height: 35px;
 }
 
 ul.cake{
   list-style-position: inside;
   font-size: 25px;
-  color: rgb(32, 167, 32)
+  color: rgb(32, 167, 32);
+  line-height: 35px;
 }
 
 strong.Fun{
+  font-style: cursive;
+  font-size: 35px;
+}
 
+body{
+  background-color: rgb(224, 213, 57);
+  text-align: center;
 }
