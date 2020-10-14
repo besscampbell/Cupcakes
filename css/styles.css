@@ -1,0 +1,27 @@
+p{
+  font-size: 30px;
+  color: rgb(231, 13, 195);
+  font-family: cursive;
+}
+
+h3{
+  font-size: 40px;
+  color: rgb(16, 169, 230);
+  font-family: cursive;
+}
+
+ul.frosting{
+  list-style-position: inside;
+  font-size: 25px;
+  color: blueviolet;
+}
+
+ul.cake{
+  list-style-position: inside;
+  font-size: 25px;
+  color: rgb(32, 167, 32)
+}
+
+strong.Fun{
+
+}
